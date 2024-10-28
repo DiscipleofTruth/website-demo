@@ -1825,7 +1825,7 @@ input::-moz-focus-inner {
   content: "";
   display: block;
   background-color: rgba(255, 255, 255, 0.5);
-  height: 1px;
+  height: 0px;
   width: 9rem;
   position: absolute;
   top: 50%;
@@ -2143,7 +2143,7 @@ input::-moz-focus-inner {
   content: "";
   height: 4px;
   width: 10rem;
-  background-color: #006a8e;
+  background-color: #ffffff;
   position: absolute;
   top: 0;
   left: .8rem;
